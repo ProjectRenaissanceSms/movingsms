@@ -1,6 +1,5 @@
 body {
     background-color: #8bc541;
-    font-family: 'Roboto Slab', serif;
     text-align: center;
     font-size: 16px;
   }
@@ -15,6 +14,7 @@ body {
     overflow-x: hidden;
     padding: 8px 0;
     text-align: left;
+    font-family: 'Roboto Slab', serif;
   }
   
   .sidenav a {
@@ -33,6 +33,7 @@ body {
     margin-left: 140px; /* Same width as the sidebar + left position in px */
     font-size: 28px; /* Increased text to enable scrolling */
     padding: 0px 10px;
+    font-family: 'Ubuntu',Helvetica,Arial,Lucida,sans-serif;
   }
   
   @media screen and (max-height: 450px) {
