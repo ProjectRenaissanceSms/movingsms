@@ -10,10 +10,10 @@ body {
     position: fixed;
     z-index: 1;
     top: 20px;
-    left: 10px;
+    left: 12px;
     background: #8bc541;
     overflow-x: hidden;
-    padding: 8px 2;
+    padding: 8px 2px;
     text-align: left;
     font-family: 'Ubuntu',Helvetica,Arial,Lucida,sans-serif;
   }
